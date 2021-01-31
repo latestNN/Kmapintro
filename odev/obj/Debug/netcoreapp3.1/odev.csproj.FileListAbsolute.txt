@@ -1,0 +1,13 @@
+C:\Users\alibe\source\repos\Kmapintro\odev\bin\Debug\netcoreapp3.1\odev.exe
+C:\Users\alibe\source\repos\Kmapintro\odev\bin\Debug\netcoreapp3.1\odev.deps.json
+C:\Users\alibe\source\repos\Kmapintro\odev\bin\Debug\netcoreapp3.1\odev.runtimeconfig.json
+C:\Users\alibe\source\repos\Kmapintro\odev\bin\Debug\netcoreapp3.1\odev.runtimeconfig.dev.json
+C:\Users\alibe\source\repos\Kmapintro\odev\bin\Debug\netcoreapp3.1\odev.dll
+C:\Users\alibe\source\repos\Kmapintro\odev\bin\Debug\netcoreapp3.1\odev.pdb
+C:\Users\alibe\source\repos\Kmapintro\odev\obj\Debug\netcoreapp3.1\odev.AssemblyInfoInputs.cache
+C:\Users\alibe\source\repos\Kmapintro\odev\obj\Debug\netcoreapp3.1\odev.AssemblyInfo.cs
+C:\Users\alibe\source\repos\Kmapintro\odev\obj\Debug\netcoreapp3.1\odev.csproj.CoreCompileInputs.cache
+C:\Users\alibe\source\repos\Kmapintro\odev\obj\Debug\netcoreapp3.1\odev.dll
+C:\Users\alibe\source\repos\Kmapintro\odev\obj\Debug\netcoreapp3.1\odev.pdb
+C:\Users\alibe\source\repos\Kmapintro\odev\obj\Debug\netcoreapp3.1\odev.genruntimeconfig.cache
+C:\Users\alibe\source\repos\Kmapintro\odev\obj\Debug\netcoreapp3.1\odev.csprojAssemblyReference.cache
